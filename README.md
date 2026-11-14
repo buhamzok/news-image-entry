@@ -1,0 +1,1 @@
+This entry copies entry.png to /output/entry.png. The image is an original front-page infographic summarizing world news of Friday 13 November 2026, including the Nvidia leadership change, the Gulf standoff, the Ukraine talks, the Gaza hospital strike, the Microsoft outage, the yen move, and the Brooklyn collapse.
